@@ -28,5 +28,4 @@ It focuses on layout, structure, and design principles like:
 - CSS3
 - Javascript
 
-## 📂 Project Structure
 
